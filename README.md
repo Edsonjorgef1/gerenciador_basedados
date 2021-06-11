@@ -11,5 +11,5 @@ Pacote de Laravel que permite gestao de banco de dados.
 5 - Acesse a rota: `http:128.0.0.1:800/database` <br>
 6 - Faz o login com usuario criado e atribuido permissoes de acesso a Gerenciamento de Base de Dados <br>
 
-[DOCUMENTACAO](https://codexshaper.github.io/docs/laravel-database-manager/)
+[DOCUMENTACAO](https://codexshaper.github.io/docs/laravel-database-manager/) <br>
 [Projecto original](https://github.com/Codexshaper/laravel-database-manager)
